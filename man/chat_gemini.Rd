@@ -63,6 +63,7 @@ Other chatbots:
 \code{\link{chat_groq}()},
 \code{\link{chat_ollama}()},
 \code{\link{chat_openai}()},
-\code{\link{chat_perplexity}()}
+\code{\link{chat_perplexity}()},
+\code{\link{chat_xAI}()}
 }
 \concept{chatbots}
